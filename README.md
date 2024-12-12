@@ -1,4 +1,4 @@
-# IMDB Clone
+# Restaurant Menu Page
 
 A visually appealing, responsive restaurant menu page built using HTML, CSS, and JavaScript. This project showcases a clean and user-friendly interface to display a restaurant's menu.
 
